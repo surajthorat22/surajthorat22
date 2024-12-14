@@ -1,7 +1,7 @@
-<img align="right" alt="Coding" width="400" src="[https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif">
 <h1 align="center">Hi 👋, I'm Suraj P Thorat</h1>
 <h3 align="center">A passionate Full Stack Java developer from earth</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/Ll22OhMLAlVDb8UQWe">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajthorat22&label=Profile%20views&color=0e75b6&style=flat" alt="surajthorat22" /> </p>
