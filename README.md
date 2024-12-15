@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning **Full Stack Java Develppment**
 
-- 👨‍💻 All of my projects are available at [https://surajthorat.vercel.app/](https://surajthorat.vercel.app/)
-
 - 💬 Ask me about **Html, Core Java and Nothing..🤐**
 
 - 📫 How to reach me **spthorat21485@gmail.com**
