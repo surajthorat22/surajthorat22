@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **My career...😉**
 
-- 🌱 I’m currently learning **Full Stack Java Develppment**
+- 🌱 I’m currently learning **Full Stack Develppment**
 
-- 💬 Ask me about **Html, Core Java and Nothing..🤐**
+- 💬 Ask me about **Frontend | Backend | DevOps and Nothing..🤐**
 
-- 📫 How to reach me **spthorat21485@gmail.com**
+- 📫 How to reach me **just say my name**
 
 - ⚡ Fun fact **It’s all 0’s and 1’s**
 
